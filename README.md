@@ -22,3 +22,7 @@
 <img align='left' alt="Terminal" src="https://img.shields.io/badge/Terminal-Bash-black" />
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
