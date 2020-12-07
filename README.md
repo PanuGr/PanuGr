@@ -1,4 +1,4 @@
-# Hello there, I'm Panagiotis - [website] 👋
+# Hello there, I'm Panagiotis - [my website] 👋
 
 ## I'm working, studying, dreaming 🤓
 
@@ -29,4 +29,4 @@
 <!-- YOUTUBE:END -->
 
 
-[website]: http://panagiotis.netlify.app/
+[my website]: http://panagiotis.netlify.app/
