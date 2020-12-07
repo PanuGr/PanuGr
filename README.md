@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PanuGr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true&hide=stars,contribs&count_private=true" />
+  <img align="left" alt="PanuGr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true&hide=stars,contribsissues,prs&count_private=true" />
 
 </details>
 
