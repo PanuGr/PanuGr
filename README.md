@@ -23,6 +23,10 @@
 <br />
 <br />
 
-[![Panagiotis github stats](https://github-readme-stats.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true&hide=stars,contribs,issues,prs&count_private=true)
+![Panagiotis github stats](https://github-readme-stats.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true&hide=stars,contribs,issues,prs&count_private=true)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuGr)]
 
 [my website]: http://panagiotis.netlify.app/
