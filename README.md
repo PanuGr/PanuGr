@@ -21,7 +21,8 @@
 <img align='left' alt="JavaScript" src="https://img.shields.io/badge/Javascript-ES9-yellow" />
 <img align='left' alt="Terminal" src="https://img.shields.io/badge/Terminal-Bash-black" />
 
-
+<br />
+<br />
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
