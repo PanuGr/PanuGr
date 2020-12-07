@@ -26,7 +26,7 @@
 <br />
 <br />
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
