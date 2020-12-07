@@ -23,7 +23,7 @@
 <br />
 <br />
 
-## 📺 YouTube videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
