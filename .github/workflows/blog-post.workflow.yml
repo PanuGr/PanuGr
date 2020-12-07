@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@1.4.2
         with:
-          feed_list: "https://panagiotis.netlify.app/sites/"
+          feed_list: "https://panagiotis.netlify.app/"
 
