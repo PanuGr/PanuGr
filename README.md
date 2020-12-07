@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning Javascript
 - 🥅 2021 Goals: Learn a JS-framework(React/Svelte), bit of Node.js
 - ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar, Xbox and sing karaoke
+<br />
+
 
 ### Languages and Tools that I've used:
 
@@ -23,7 +25,8 @@
 
 <br />
 <br />
-# Blog posts
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
