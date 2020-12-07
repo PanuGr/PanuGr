@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript
 - 🥅 2021 Goals: Learn a JS-framework(React/Svelte), bit of Node.js
 - ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar, Xbox and sing karaoke
- 
+
   <br />
 
 ### Languages and Tools that I've used:
@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PanuGr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true" />
+  <img align="left" alt="PanuGr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PanuGr&show_icons=true&hide_border=true&hide=stars,contribs&count_private=true" />
 
 </details>
 
