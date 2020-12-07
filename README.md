@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on developing my site and making projects 
 - 🌱 I’m currently learning Javascript
 - 🥅 2021 Goals: Learn a JS-framework(React/Svelte), bit of Node.js
-- ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar/sing karaoke/play Xbox
+- ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar, Xbox and sing karaoke
 
 ## Languages and Tools:
 
