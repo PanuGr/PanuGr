@@ -1,10 +1,14 @@
-# Hello there, I'm Panagiotis - [my website] 👋
+# Hello there, I'm Panagiotis - [a Front-end enthusiast] 👋
 
-## I'm working, studying, dreaming 🤓
+## About me 🤓
 
-- 🔭 I’m currently working on developing my site and making projects
+- I'm working in automobile industry by day
+- By night, I'm studying Web-development, with a focus on front-end
+- 🔭 I’m currently working on a [project]
 - 🌱 I’m currently learning Javascript
-- 🥅 2021 Goals: Learn a JS-framework(React/Svelte), bit of Node.js
+- 🥅 2021 Goals:
+     - [ ] complete javascript lesson
+
 - ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar, Xbox and sing karaoke
 
   <br />
@@ -30,4 +34,5 @@
 <!--
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuGr&layout=compact)-->
 
-[my website]: http://panagiotis.netlify.app/
+[a Front-end enthusiast]: http://panagiotis.netlify.app/
+[project]: https://panagiotis.netlify.app/sites/feeltherhythm
