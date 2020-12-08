@@ -1,4 +1,4 @@
-# Hello there, I'm Panagiotis - [a Front-end enthusiast] 👋
+# Hello there, I'm Panagiotis, [a Front-end enthusiast] 👋
 
 ## About me 🤓
 
