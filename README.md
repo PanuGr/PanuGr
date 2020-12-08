@@ -26,7 +26,7 @@
 <img align='left' alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align='left' alt="HTML5"  src="https://img.shields.io/badge/HTML-5-orange"/>
 <img align='left' alt="CSS3"  src="https://img.shields.io/badge/CSS-3-blue" />
-<img align='left' alt="Sass"  src="https://img.shields.io/badge/Sass-Scss-pink" />
+<img alt="Sass"  src="https://img.shields.io/badge/Sass-Scss-pink" />
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ES9-yellow" />
 <img alt="Terminal" src="https://img.shields.io/badge/Terminal-Bash-black" />
 
