@@ -7,9 +7,15 @@
 - 🔭 I’m currently working on a [project]
 - 🌱 I’m currently learning Javascript
 - 🥅 2021 Goals:
-     - [ ] complete javascript lesson
+     - [ ] complete Javascript lesson 
+     - [ ] complete Bootstrap lesson 
+     - [ ] learn basics of Node.js
+     - [ ] learn React 
+     - [ ] learn Parcel
+     - [ ] learn basics of Jekyll 
+     - [ ] spend one month in Greece
 
-- ⚡ Fun fact: I bike a lot and in my spare time I like to play guitar, Xbox and sing karaoke
+- ⚡ Fun fact: When not coding or reading, I like to bike, play Xbox and do water-jumppa
 
   <br />
 
