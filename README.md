@@ -27,8 +27,8 @@
 <img align='left' alt="HTML5"  src="https://img.shields.io/badge/HTML-5-orange"/>
 <img align='left' alt="CSS3"  src="https://img.shields.io/badge/CSS-3-blue" />
 <img align='left' alt="Sass"  src="https://img.shields.io/badge/Sass-Scss-pink" />
-<img align='left' alt="JavaScript" src="https://img.shields.io/badge/Javascript-ES9-yellow" />
-<img align='left' alt="Terminal" src="https://img.shields.io/badge/Terminal-Bash-black" />
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ES9-yellow" />
+<img alt="Terminal" src="https://img.shields.io/badge/Terminal-Bash-black" />
 
 <br />
 <br />
