@@ -33,4 +33,4 @@
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanuGr&layout=compact)-->
 
 [a Front-end enthusiast]: http://panagiotis.netlify.app/
-[project]: https://panagiotis.netlify.app/sites/feeltherhythm
+[project]: https://panagiotis.netlify.app/sites/writepoems
