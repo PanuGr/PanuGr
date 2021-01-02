@@ -8,7 +8,7 @@
 - 🔭 Visit my [site] and see what projects I have been doing
 - 🌱 I’m currently learning Javascript
 - 🥅 2021 Goals:
-     - [x] complete Javascript lesson 
+     - [ ] complete Javascript lesson 
      - [ ] complete Bootstrap lesson 
      - [ ] learn basics of Node.js
      - [ ] learn React 
