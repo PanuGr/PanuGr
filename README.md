@@ -6,9 +6,9 @@
 - 🚗 I'm working in automobile industry
 - 📚 I'm studying Web-development, with a focus on front-end
 - 🔭 Visit my [site] and see what projects I have been doing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Front-End development
 - 🥅 2021 Goals:
-     - [ ] complete Javascript lesson 
+     - [x] complete Javascript lesson 
      - [ ] complete Bootstrap lesson 
      - [ ] learn basics of Node.js
      - [ ] learn React 
