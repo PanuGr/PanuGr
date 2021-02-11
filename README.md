@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Front-End development
 - 🥅 2021 Goals:
      - [x] complete Javascript lesson 
-     - [ ] complete Bootstrap lesson 
-     - [ ] learn basics of Node.js
+     - [x] complete Bootstrap lesson 
+     - [x] learn basics of Node.js
      - [ ] learn React 
      - [ ] learn Parcel
      - [ ] learn basics of Jekyll 
