@@ -12,7 +12,7 @@
      - [x] complete Bootstrap lesson 
      - [x] learn basics of Node.js
      - [ ] learn React 
-     - [ ] learn Parcel
+     - [x] ~learn Parcel~ I started to use Skypack instead
      - [ ] learn basics of Jekyll 
      - [ ] spend one month in Greece
 
